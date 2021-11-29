@@ -17,3 +17,4 @@ N = stats.norm(loc=98.9, scale=111.697)
 N = N.random_list(5, [40, 322])
 
 #--------------
+#add new
